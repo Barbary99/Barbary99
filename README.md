@@ -1,16 +1,29 @@
-## Hi there 👋
+# أهلاً، أنا محمد 👋
 
-<!--
-**Barbary99/Barbary99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+بدأت أتعلم الأمن السيبراني من الصفر. لسه في أول الطريق، والحساب ده دفتر رحلتي: هرفع هنا اللي أتعلمه وأول سكريبتس أكتبها.
 
-Here are some ideas to get you started:
+بتعلم إيه دلوقتي:
+- Cisco NetAcad: Introduction to Cybersecurity
+- TryHackMe: مسار Pre Security
+- أساسيات الشبكات
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+هدفي:
+- أبني أساس قوي في الأمن السيبراني
+- أتعلم برمجة بسيطة (Python) وأكتب أدوات صغيرة
+- أوصل لأول شغل freelance في المجال
+
+---
+
+# Hi, I'm Mohamed 👋
+
+I'm learning cybersecurity from zero. I'm at the very beginning, and this account is my learning log. I'll post what I study and the first scripts I write here.
+
+Currently learning:
+- Cisco NetAcad: Introduction to Cybersecurity
+- TryHackMe: Pre Security path
+- Networking basics
+
+Goals:
+- Build a solid cybersecurity foundation
+- Learn basic programming (Python) and write small tools
+- Land my first freelance gig in the field
